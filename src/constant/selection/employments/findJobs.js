@@ -1,0 +1,6 @@
+export const ALL_JOBS = "ALL_JOBS";
+export const TODAY = "TODAY";
+export const ONE_DAY_BEFORE = "ONE_DAY_BEFORE";
+export const SEVEN_DAYS_BEFORE = "SEVEN_DAYS_BEFORE";
+export const FIFTEEN_DAYS_BEFORE = "FIFTEEN_DAYS_BEFORE";
+export const THIRTY_DAYS_BEFORE = "THIRTY_DAYS_BEFORE";

@@ -1,0 +1,4851 @@
+[
+  {
+    "name": "INTELIGENCIA_I",
+    "areas": [
+      {
+        "name": "Marketing/Mercadotecnia/Mercadeo",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ventas/Comercial/Telemarketing",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Call Center/Atención al cliente/Servicio al cliente",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Periodismo/Publicidad/Relaciones publicas",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capacitación/Entrenamiento/Desarrollo",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Recursos Humanos/Gestión del Talento",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Recepción/Atención al Cliente/Secretaría",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Servicio Social/Psicología/Voluntariado",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Jurídica/Legal",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Compras",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Salud/Nutrición",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Medicina/Enfermería",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Educación/Enseñanza",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Créditos/Cobranzas",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tesorería/Caja",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Contabilidad/Finanzas/Costos/Presupuestos",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Facturación",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Informática/Programación/Tecnologías de Información",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Inversiones/Riesgos financieros",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Laboratorio/Química",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Auditoría",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Calidad",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Almacén",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Planificación",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Estrategíca/Gestión/Proyectos",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Administración",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Operaciones Arquitectura/Construcción/Obra",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Documentación/Biblioteca/Archivo",
+        "nivelPuesto": [
+          {
+            "name": "Practicante Pre-Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Practicante Profesional",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Trainee",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Auxiliar",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asistente",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Técnico/Operativo",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Asesor/Ejecutivo/representante",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 85 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Analista",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Consultor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 80 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Coordinador/Supervisor",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Administrador",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 75 },
+              { "name": "normal superior", "value": 90 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Jefatura",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Gerencia",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          },
+          {
+            "name": "Dirección",
+            "nivelPrueba": [
+              { "name": "deficiente", "value": 10 },
+              { "name": "inferior", "value": 30 },
+              { "name": "normal bajo", "value": 50 },
+              { "name": "normal promedio", "value": 70 },
+              { "name": "normal superior", "value": 85 },
+              { "name": "Superior", "value": 95 },
+              { "name": "Brillante", "value": 100 }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

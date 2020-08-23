@@ -1,0 +1,87 @@
+[
+    {
+        "key":1,
+        "categoria":"Competencia",
+        "nombre":"Grado de instrucción",
+        "peso":11.4,
+        "no_niveles":6
+    },
+    {
+        "key":2,
+        "categoria":"Competencia",
+        "nombre":"Experiencia Laboral",
+        "peso":13.6,
+        "no_niveles":5
+    },
+    {
+        "key":3,
+        "categoria":"Competencia",
+        "nombre":"Habilidades Cognitivas",
+        "peso":7.8,
+        "no_niveles":4
+    },
+    {
+        "key":4,
+        "categoria":"Competencia",
+        "nombre":"Habilidades Interdiciplinarias",
+        "peso":7.9,
+        "no_niveles":4
+    },
+    {
+        "key":5,
+        "categoria":"Competencia",
+        "nombre":"Habilidades comunicativas",
+        "peso":8.4,
+        "no_niveles":4
+    },
+    {
+        "key":6,
+        "categoria":"Esfuerzo",
+        "nombre":"Mental",
+        "peso":9.5,
+        "no_niveles":4
+    },
+    {
+        "key":7,
+        "categoria":"Esfuerzo",
+        "nombre":"Físico",
+        "peso":6.0,
+        "no_niveles":4
+    },
+    {
+        "key":8,
+        "categoria":"Responsabilidad",
+        "nombre":"En el manejo del personal",
+        "peso":6.4,
+        "no_niveles":4
+    },
+    {
+        "key":9,
+        "categoria":"Responsabilidad",
+        "nombre":"En el manejo de la información",
+        "peso":6.8,
+        "no_niveles":4
+    },
+    {
+        "key":10,
+        "categoria":"Responsabilidad",
+        "nombre":"En el manejo de los recursos económicos",
+        "peso":5.2,
+        "no_niveles":4
+    },
+    {
+        "key":11,
+        "categoria":"Responsabilidad",
+        "nombre":"En el ejercicio de sus funciones",
+        "peso":7.9,
+        "no_niveles":4
+    },
+    {
+        "key":12,
+        "categoria":"Riesgo",
+        "nombre":"Riesgo",
+        "peso":9.2,
+        "no_niveles":4
+    }
+]
+        
